@@ -19,6 +19,7 @@
 ![Gambar 5](screenshoot/s5.JPG)
 3. Alur Program atau Diagram Flowchart'<p>'
 ![Gambar 6](screenshoot/s6.JPG)
+![Gambar 17](screenshoot/s17.JPG)
 4. Ketentuan Soal'<p>'
 Tampilkan Menu halaman utara dengan pilihan : (Dosen dan Mahasiswa)
 Menampilkan menu login Dosen dengan masukan kode (password = admin) untuk melanjutkan ke menu dosen.
