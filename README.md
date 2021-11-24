@@ -65,7 +65,30 @@ Dan untuk tambahan saya akan mebuat perogram sebagai berikut buat refrensi apabi
 Program Sederhana Python Penambahan Data Ke Dalam List Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut :
 
 1.)Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) 2.)Tampilkan pertanyaan untuk menambah data(y/t?), apabila jawaban t(Tidak), maka program akan menampilkan daftar datanya. 3.)Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%) 4.)Buat flowchart dan penjelasan programnya'<p>'
+Tampilan Rulling:'<p>'
 ![Gambar 19](screenshoot/s19.JPG)
+Scrip codingnnya:'<p>'
+data=[]
+while(True):
+    NIM=input("masukan NIM: ")
+    Nama=input("masukaan Nama: ")
+    Tugas=input("masukan Tugas: ")
+    UTS=input("masukan UTS: ")
+    UAS=input("masukaan UAS: ")
+    Akhir=(int(Tugas)*.30)+(int(UTS)*.35)+(int(UAS)*.35)
+    data.append([NIM, Nama, Tugas, UTS, UAS, Akhir])
+    ulangi=input("Tambah data (y/t)?")
+    if ulangi .lower()== 't' :
+        break
+
+print("\nDaftar Nama\n")
+print("==================================================")
+print("|  NIM  |  Nama  | Tugas | UTS |  UAS  |  Akhir  |")
+print("==================================================")
+for x in data:
+    print("|  {0:1}  |  {1:1}  |  {2:1}  |  {3:1}  |  {4:1}  |  {5:1}  |".format(x[0], x[1], x[2], x[3], x[4], x[5]))
+print("==================================================")'<p>'
+
 Alur Program atau Diagram Flowchartnya'<p>'
 ![Gambar 20](screenshoot/s20.JPG)
 
