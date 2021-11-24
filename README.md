@@ -61,6 +61,10 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 ![Gambar 18](screenshoot/s18.JPG)
  
 Dan untuk tambahan saya akan mebuat perogram sebagai berikut buat refrensi apabila program yg diatas masuh kurang sederhana semoga bermanfaat'<p>'
+
+Program Sederhana Python Penambahan Data Ke Dalam List Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut :
+
+1.)Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) 2.)Tampilkan pertanyaan untuk menambah data(y/t?), apabila jawaban t(Tidak), maka program akan menampilkan daftar datanya. 3.)Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%) 4.)Buat flowchart dan penjelasan programnya'<p>'
 ![Gambar 19](screenshoot/s19.JPG)
 Alur Program atau Diagram Flowchartnya'<p>'
 ![Gambar 20](screenshoot/s20.JPG)
