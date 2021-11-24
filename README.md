@@ -65,4 +65,4 @@ Dan untuk tambahan saya akan mebuat perogram sebagai berikut buat refrensi apabi
 
 
 
-Segini saja untuk tugas kali, ini kuran lebihnya saya mohon maaf assalam'mualaikum wa romatullahi wa barokatuh'<p>'
+Segini saja untuk tugas kali, ini kurang lebihnya saya mohon maaf dan jika masih bannyak yang salah tolong dimaklum assalam'mualaikum wa romatullahi wa barokatuh'<p>'
