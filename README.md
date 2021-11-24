@@ -3,6 +3,9 @@
 ### Tugas-Program
 #### belajar program sederhana
 ##### Program Python Nilai Data Mahasiswa , UTS, UAS, Tugas
+
+Program python daftar mahasiswa dan perhitungan nilai 3 komponen (Tugas: 30&, uts:35%, uas:35%)'<p>'
+
 1. Ruang Lingkup Program'<p>'
 - Sintaks Dasar Python
 - Operator Logika
@@ -41,4 +44,21 @@ Menampilkan Output di Menu Mahasiswa berupa (Nama, Nim, Kelas, Prodi, Komponen N
 ![Gambar 14](screenshoot/s14.JPG)
 ![Gambar 15](screenshoot/s15.JPG)
 ![Gambar 16](screenshoot/s16.JPG)
+
+Tugas latihan pertemuan 9'<p>'
+Buat sebuah list sebanyak 5 elemen dengan nilai bebas
+• akses list:
+• tampilkan elemen ke 3
+• ambil nilai elemen ke 2 sampai elemen ke 4
+• ambil elemen terakhir
+• ubah elemen list:
+• ubah elemen ke 4 dengan nilai lainnya
+• ubah elemen ke 4 sampai dengan elemen terakhir
+• tambah elemen list:
+• ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
+• tambah list B dengan nilai string
+• tambah list B dengan 3 nilai
+• gabungkan list B'<p>'
+![Gambar 18](screenshoot/s18.JPG)
+
 Segini saja untuk tugas kali, ini kuran lebihnya saya mohon maaf assalam'mualaikum wa romatullahi wa barokatuh'<p>'
