@@ -62,6 +62,9 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
  
 Dan untuk tambahan saya akan mebuat perogram sebagai berikut buat refrensi apabila program yg diatas masuh kurang sederhana semoga bermanfaat'<p>'
 ![Gambar 19](screenshoot/s19.JPG)
+Alur Program atau Diagram Flowchartnya'<p>'
+![Gambar 20](screenshoot/s20.JPG)
+
 
 
 
