@@ -59,5 +59,10 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 • tambah list B dengan 3 nilai
 • gabungkan list B'<p>'
 ![Gambar 18](screenshoot/s18.JPG)
+ 
+Dan untuk tambahan saya akan mebuat perogram sebagai berikut buat refrensi apabila program yg diatas masuh kurang sederhana semoga bermanfaat'<p>'
+![Gambar 19](screenshoot/s19.JPG)
+
+
 
 Segini saja untuk tugas kali, ini kuran lebihnya saya mohon maaf assalam'mualaikum wa romatullahi wa barokatuh'<p>'
