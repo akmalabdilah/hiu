@@ -44,7 +44,6 @@ Menampilkan Output di Menu Mahasiswa berupa (Nama, Nim, Kelas, Prodi, Komponen N
 ![Gambar 14](screenshoot/s14.JPG)
 ![Gambar 15](screenshoot/s15.JPG)
 ![Gambar 16](screenshoot/s16.JPG)
-
 Tugas latihan pertemuan 9'<p>'
 Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 • akses list:
